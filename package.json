@@ -1,0 +1,22 @@
+{
+  "name": "itunes-listening-node",
+  "version": "1.0.0",
+  "description": "iTunes \"Listening now\" API for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bjornskjald/itunes-listening-node.git"
+  },
+  "author": "Bjornskjald <github@bjorn.ml> (https://bjorn.ml/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bjornskjald/itunes-listening-node/issues"
+  },
+  "homepage": "https://github.com/Bjornskjald/itunes-listening-node#readme",
+  "dependencies": {
+    "applescript": "^1.0.0"
+  }
+}
