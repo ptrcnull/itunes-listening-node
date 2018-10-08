@@ -1,5 +1,5 @@
 {
-  "name": "itunes-listening-node",
+  "name": "itunes-listening",
   "version": "1.0.0",
   "description": "iTunes \"Listening now\" API for Node.js",
   "main": "index.js",
